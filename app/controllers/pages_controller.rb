@@ -1,5 +1,7 @@
 class PagesController < ApplicationController
-  def about; end
+  def dev4dev; end
+
+  def murdoc; end
 
   def home; end
 
