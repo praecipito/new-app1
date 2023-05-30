@@ -3,7 +3,7 @@ class PagesController < ApplicationController
 
   def murdoc; end
 
-  def home; end
+  def about; end
 
   def contact; end
 end
